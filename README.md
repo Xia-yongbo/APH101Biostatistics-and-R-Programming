@@ -112,27 +112,6 @@ Life Expectancy <= 65 years = 0
 - **学术写作：** 完成背景、文献回顾、方法、结果、讨论、结论、参考文献和代码附录等完整报告结构；
 - **政策转化：** 根据实证结果提出面向低预期寿命国家的干预方向。
 
-## 供文书老师参考的项目表述
-
-### 中文概括
-
-在 APH101 课程项目中，我使用 R 分析了 2000–2015 年的预期寿命与公共卫生指标。以土库曼斯坦为案例，我通过数据检查、散点图、线性回归和 Logistic 回归考察教育、BMI、成人死亡率和卫生支出与预期寿命的关系。这个项目让我认识到，统计分析的价值不仅在于得到显著结果，更在于判断数据质量、选择与研究问题匹配的模型，并将结果转化为谨慎且有现实意义的公共卫生解释。
-
-### English summary
-
-In an APH101 coursework project, I used R to examine the relationship between life expectancy and public-health indicators using data from 2000 to 2015. Focusing my empirical analysis on Turkmenistan, I conducted data checks, exploratory visualization, linear regression, and logistic regression to investigate the roles of schooling, BMI, adult mortality, and health expenditure. The project taught me to connect model choice with the type of outcome, interpret statistical associations in context, and translate quantitative findings into carefully qualified public-health recommendations.
-
-## 使用本项目时需要注意的边界
-
-为保证申请材料准确，建议在简历或文书中将本项目描述为 **coursework project** 或 **independent statistical analysis for a course**，不要表述为已发表研究或完整的全球因果研究。此外：
-
-- 报告的核心实证分析是土库曼斯坦单国案例；
-- 多数模型一次考察一个预测变量，不能排除混杂因素；
-- 小样本下的显著性、概率预测和异常值处理需要谨慎解释；
-- 回归结果说明关联，不直接证明因果关系；
-- Total Expenditure 的图形与文字解释存在不完全一致，因此文书中更适合强调教育和成人死亡率等较稳定的发现。
-
-这些限制并不削弱该项目作为统计学习经历的价值，反而能够体现我对模型边界、证据强度和负责任解释的认识。
 
 ## 项目文件
 
